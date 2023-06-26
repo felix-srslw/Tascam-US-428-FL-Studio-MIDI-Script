@@ -1,1 +1,1 @@
-# tascam-us-428-fl-studio-midi-script
+# FL Studio MIDI Script for Tascam US-428 
